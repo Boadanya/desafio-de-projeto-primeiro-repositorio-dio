@@ -1,0 +1,13 @@
+comandos:
+
+git add . oooooou git add * 
+adiciona todos os arquivos daquela pasta para o commit
+
+git status
+observa quais os arquivos que estao unstaged (nao sincronizados) ou staged (prontos para sincronização) ou seja o status do baguio
+
+git commit -m "mensagem explicando a porra toda"
+commita todos os arquivos que vc colocou no add
+
+git push origin (main/master/ou nome do negocio q ta ali no azulzinho)
+manda pro repositorio remoto todos os arquivos q vc comitou com o git commit -m
