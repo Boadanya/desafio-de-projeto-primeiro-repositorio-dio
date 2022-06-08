@@ -1,4 +1,4 @@
-comandos:
+# Comandos:
 
 git add . oooooou git add * 
 adiciona todos os arquivos daquela pasta para o commit
